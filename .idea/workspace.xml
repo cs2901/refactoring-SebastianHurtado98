@@ -2,20 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="803afbcf-ff1f-453f-811f-3501f4fc4738" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/refactoring.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/composing/extract-method_before.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/composing/extract-variable_before.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/composing/inline-method_before.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/composing/split-temporary-variable_before.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/organizing_data/replace-magic-number-with-symbolic-constant_before.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/simplifying_conditional_expressions/consolidate-conditional-expression_before.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/simplifying_conditional_expressions/decompose-conditional_before.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/simplifying_conditional_expressions/replace-nested-conditional-with-guard-clauses_before.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/simplifying_method_calls/replace-parameter-with-explicit-methods_before.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/organizing_data/replace-magic-number-with-symbolic-constant_before.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/organizing_data/replace-magic-number-with-symbolic-constant_before.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/simplifying_conditional_expressions/consolidate-conditional-expression_before.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simplifying_conditional_expressions/consolidate-conditional-expression_before.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/simplifying_conditional_expressions/decompose-conditional_before.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simplifying_conditional_expressions/decompose-conditional_before.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/simplifying_conditional_expressions/replace-nested-conditional-with-guard-clauses_before.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simplifying_conditional_expressions/replace-nested-conditional-with-guard-clauses_before.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/simplifying_method_calls/replace-parameter-with-explicit-methods_before.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simplifying_method_calls/replace-parameter-with-explicit-methods_before.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,9 +21,58 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/composing/extract-method_before.java">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/simplifying_conditional_expressions/consolidate-conditional-expression_before.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/simplifying_conditional_expressions/decompose-conditional_before.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/simplifying_conditional_expressions/replace-nested-conditional-with-guard-clauses_before.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="17" lean-forward="true" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/simplifying_method_calls/replace-parameter-with-explicit-methods_before.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/organizing_data/replace-magic-number-with-symbolic-constant_before.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -74,6 +114,11 @@
         <option value="$PROJECT_DIR$/src/composing/inline-method_before.java" />
         <option value="$PROJECT_DIR$/src/composing/split-temporary-variable_before.java" />
         <option value="$PROJECT_DIR$/src/composing/extract-method_before.java" />
+        <option value="$PROJECT_DIR$/src/simplifying_conditional_expressions/consolidate-conditional-expression_before.java" />
+        <option value="$PROJECT_DIR$/src/simplifying_conditional_expressions/decompose-conditional_before.java" />
+        <option value="$PROJECT_DIR$/src/simplifying_conditional_expressions/replace-nested-conditional-with-guard-clauses_before.java" />
+        <option value="$PROJECT_DIR$/src/organizing_data/replace-magic-number-with-symbolic-constant_before.java" />
+        <option value="$PROJECT_DIR$/src/simplifying_method_calls/replace-parameter-with-explicit-methods_before.java" />
       </list>
     </option>
   </component>
@@ -113,6 +158,24 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="composing" type="462c0819:PsiDirectoryNode" />
               <item name="inline-method_before.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="refactoring-SebastianHurtado98" type="b2602c69:ProjectViewProjectNode" />
+              <item name="refactoring-SebastianHurtado98" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="organizing_data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="refactoring-SebastianHurtado98" type="b2602c69:ProjectViewProjectNode" />
+              <item name="refactoring-SebastianHurtado98" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="simplifying_conditional_expressions" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="refactoring-SebastianHurtado98" type="b2602c69:ProjectViewProjectNode" />
+              <item name="refactoring-SebastianHurtado98" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="simplifying_method_calls" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -326,12 +389,12 @@
       <updated>1559568561150</updated>
       <workItem from="1559568568389" duration="665000" />
       <workItem from="1559572574707" duration="399000" />
-      <workItem from="1559573256295" duration="504000" />
+      <workItem from="1559573256295" duration="2315000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1568000" />
+    <option name="totallyTimeSpent" value="3379000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="45" y="25" width="1321" height="743" extended-state="6" />
@@ -396,7 +459,46 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/composing/extract-method_before.java">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/simplifying_conditional_expressions/consolidate-conditional-expression_before.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/simplifying_conditional_expressions/decompose-conditional_before.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/simplifying_conditional_expressions/replace-nested-conditional-with-guard-clauses_before.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="17" lean-forward="true" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/organizing_data/replace-magic-number-with-symbolic-constant_before.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/simplifying_method_calls/replace-parameter-with-explicit-methods_before.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
